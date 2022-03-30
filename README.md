@@ -12,10 +12,11 @@ const infoAboutMe = {
 };
 ```
 - 🌱 I’m currently learning **Angular**
-- - 📫 How to reach me: **torres.elanny@gmail.com**
+- 📫 How to reach me: **torres.elanny@gmail.com**
+
 ```js
 let someMore = {
-  hobbies: []
+  hobbies: ['read and learn', 'listen to music']
 }
 ```
 
