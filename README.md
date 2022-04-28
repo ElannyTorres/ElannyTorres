@@ -16,7 +16,11 @@ const infoAboutMe = {
 
 ```js
 let someMore = {
-  hobbies: ['read and learn', 'listen to music']
+  hobbies: ['read and learn', 'listen to music'],
+  favoritePhrase: {
+    quote: 'There is no glory in practice, but without practice there is no glory.',
+    author: 'anonymous'
+  }
 }
 ```
 
