@@ -7,11 +7,10 @@
 ```js
 const infoAboutMe = {
     name: 'Elanny',
-    lastName: 'Torres',
-    age: 28
+    lastName: 'Torres'
 };
 ```
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React** and **Vuejs**
 - 📫 How to reach me: **torres.elanny@gmail.com**
 
 ```js
